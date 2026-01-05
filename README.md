@@ -9,7 +9,7 @@ I build production-ready applications with a focus on quality, testing, and main
 **Mobile Development:**
 - Native mobile apps using React Native & TypeScript
 - iOS and Android deployment to app stores
-- Test-driven development with 99%+ code coverage
+- Test-driven development with 90%+ code coverage (on average per project)
 - AdMob integration and In-App Purchase implementation
 - Offline-first architecture and performance optimization
 
