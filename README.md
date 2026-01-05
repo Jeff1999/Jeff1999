@@ -11,6 +11,7 @@ I build production-ready applications with a focus on quality, testing, and main
 - iOS and Android deployment to app stores
 - Test-driven development with 90%+ code coverage (on average per project)
 - AdMob integration and In-App Purchase implementation
+- Performance optimization and responsive UI design
 
 **Web Development:**
 - Full-stack web applications with Django, Flask, and React
