@@ -31,7 +31,7 @@ I build production-ready applications with a focus on quality, testing, and main
 
 **Languages:** TypeScript, JavaScript, Python  
 **Mobile:** React Native, Jest  
-**Frontend:** React, Vite, TailwindCSS, Material-UI  
+**Frontend:** React, Vite, TailwindCSS 
 **Backend:** Django, Flask, Django REST Framework  
 **Database:** PostgreSQL, AsyncStorage  
 **Tools:** Docker, Nginx, Git, VS Code, Android Studio, Xcode  
