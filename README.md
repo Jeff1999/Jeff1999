@@ -9,7 +9,6 @@ I build production-ready applications with a focus on quality, testing, and main
 **Mobile Development:**
 - Native mobile apps using React Native & TypeScript
 - iOS and Android deployment to app stores
-- Test-driven development with 90%+ code coverage (on average per project)
 - AdMob integration and In-App Purchase implementation
 - Performance optimization and responsive UI design
 
@@ -21,7 +20,7 @@ I build production-ready applications with a focus on quality, testing, and main
 - Multi-user collaboration features and RBAC
 
 **Development Practices:**
-- Test-Driven Development (TDD) with Jest and Vitest
+- Test-Driven Development (TDD) with Jest and Vitest (90%+ code coverage on average per project)
 - Git/GitHub workflows and version control
 - Agile methodologies and sprint planning
 - CI/CD pipelines and automated testing
