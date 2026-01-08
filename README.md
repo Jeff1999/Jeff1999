@@ -42,7 +42,7 @@ I build production-ready applications with a focus on quality, testing, and main
 - 💼 Available for freelance projects
 - 📧 Contact: jeffrey.paller02@gmail.com
 - 📺 YouTube: [Demo Videos](https://www.youtube.com/@jeffpaller8008)
-- 💼 LinkedIn: [Coming Soon - Phase 3]
+- 💼 LinkedIn: https://www.linkedin.com/in/jeff-paller/
 - 🌐 Portfolio: [Coming Soon - Phase 7]
 
 ---
