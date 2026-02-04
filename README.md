@@ -28,7 +28,7 @@ I build production-ready applications with a focus on quality, testing, and main
 
 ### Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python  
+**Core Languages:** TypeScript, JavaScript, Python  
 **Mobile:** React Native, Jest  
 **Frontend:** React, Vite, TailwindCSS   
 **Backend:** Django, Flask, Django REST Framework  
